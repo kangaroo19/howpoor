@@ -24,8 +24,8 @@ const Wrapper=styled.div`
   height:100vh;
   background-color:#212529;
   margin:0 auto;
-  @media only screen and (min-width:430px){
-    max-width:430px;
+  @media only screen and (min-width:500px){
+    max-width:500px;
 }
 
 `
@@ -33,6 +33,7 @@ const Wrapper=styled.div`
 const Inner=styled.div`
   height:100%;
 `
+
 
 
 // https://www.cssscript.com/
